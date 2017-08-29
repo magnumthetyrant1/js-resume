@@ -1,0 +1,22 @@
+{
+  "name": "js-resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magnumthetyrant1/js-resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magnumthetyrant1/js-resume/issues"
+  },
+  "homepage": "https://github.com/magnumthetyrant1/js-resume#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
