@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nuxt"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/magnumthetyrant1/js-resume#readme",
   "dependencies": {
-    "express": "^4.15.4"
+    "nuxt": "^1.0.0-rc11"
   }
 }
