@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "NODE_ENV=development nodemon ./bin/www",
-    "grunt": "grunt",
-    "start": "node ./bin/www"
+    "run" : "bundle exec jekyll serve",
+    "deploy" : "gulp deploy"
   },
   "babel": {},
   "repository": {
@@ -19,13 +18,8 @@
     "url": "https://github.com/magnumthetyrant1/js-resume/issues"
   },
   "homepage": "https://github.com/magnumthetyrant1/js-resume#readme",
-  "dependencies": {
-    "express": "^4.15.4",
-    "http": "0.0.0"
-  },
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-surge": "^0.1.0",
-    "typescript": "^2.5.2"
+    "gulp-surge": "^0.1.0"
   }
 }
