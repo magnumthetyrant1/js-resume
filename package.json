@@ -24,7 +24,6 @@
     "http": "0.0.0"
   },
   "devDependencies": {
-    "grunt": "^1.0.1",
     "gulp": "^3.9.1",
     "gulp-surge": "^0.1.0",
     "typescript": "^2.5.2"
