@@ -4,3 +4,11 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+{% include career-profile.html %}
+
+{% include experience.html %}
+
+{% include projects.html %}
+
+{% include skills.html %}

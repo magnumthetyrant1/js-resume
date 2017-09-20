@@ -18,9 +18,28 @@ email: zilsmc@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+
+url: "maxandrezils.surge.sh" # the base hostname & protocol for your site, e.g. http://example.com
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+#style: styles-2
+#style: styles-3
+#style: styles-4
+#style: styles-5
+#style: styles-6
+
+
+#Profile information
+name: Max-Andre Zils
+tagline: ISTQB Agile Test Analyst
+pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+
+#sidebar links
+email: zilsmc@gmail.com
+phone: 083 280 8046
+website: maxandrezils.surge.sh #do not add http://
+linkedin: maxandrezils
+github: magnumthetyrant1
 
 # Build settings
 markdown: kramdown
