@@ -4,7 +4,7 @@ const
 
 gulp.task('deploy', [], () => {
   return surge({
-    project: '',
+    project: './_site',
     domain: 'maxandrezils.surge.sh'
   })
 })
