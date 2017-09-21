@@ -1,13 +1,10 @@
  <div class="education-container container-block">
 <h2 class="container-block-title">Education</h2>
 <div class="item">
-    <h4 class="degree">B.Com (Honours) Information Systems</h4>
-    <h5 class="meta">University of The Western Cape</h5>
+    {% for education in site.data.educations %}
+    <h4 class="degree"> {{ education.degree }}</h4>
+    <h5 class="meta">{{education.institution}}</h5>
     <div class="time">2013, Jan - 2013, Nov</div>
-</div><!--//item-->
-<div class="item">
-    <h4 class="degree">B.Com (General)</h4>
-    <h5 class="meta">University of The Western Cape</h5>
-    <div class="time">2007 - 2012</div>
+    {% endfor %}
 </div><!--//item-->
 </div><!--//education-container-->
