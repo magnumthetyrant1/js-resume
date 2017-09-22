@@ -1,8 +1,19 @@
+# experiences.yml
+
 - position: ISTQB Agile Test Analyst
   company: DVT
   duration: June, 2016 - Current
-  responsibilities: 
-    Responsible for Manual Testing and Generating Test Cases in HP Quality Center
-    Defect Creation and Management in Jira.
-    Currently Contracting at PnP
-  projects: project1
+  responsibilities: Responsible for Manual Testing and Generating Test Cases in HP Quality Center Defect Creation and Management in Jira. Currently conntracting at PnP
+  projects: PnP Mobile Application, PnP Mobile Site, PnP Online Shop
+
+- position: QA Controller
+  company: Hellocomputer
+  duration: November, 2014 - July, 2016
+  responsibilities: Responsible for Manual Testing and Generating Test Cases Defect Creation and Management in Jira.
+  projects: Build your Toyota, Cell C, Engen, Hellocomputer, FCB
+
+- position: Junior Test Analyst
+  company: Liquorice, Digitas LBI
+  duration: January, 2014 - October, 2014
+  responsibilities: Responsible for Manual Testing and Generating Test Cases Defect Creation and Management in Jira.
+  projects: Robertsons, Distell, 

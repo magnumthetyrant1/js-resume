@@ -1,3 +1,5 @@
+#educations.yml
+
 - institution: University of the Western Cape
   degree: B.Com (Honours) Information Systems
   duration: 2013
@@ -8,4 +10,4 @@
 
 - institution: South African College School (SACS)
   degree: Matric Certificate with Merit
-  duration: 2006  
+  duration: 2006

@@ -1,8 +1,10 @@
 <section class="section summary-section">
 <h2 class="section-title"><i class="fa fa-user"></i>Career Profile</h2>
 <div class="summary">
+    {% for profile in site.data.career-profile %}
     <p>
-    In 2013 
+    {{profile.profile}}
     </p>
+    {% endfor %}
 </div><!--//summary-->
 </section><!--//section-->
