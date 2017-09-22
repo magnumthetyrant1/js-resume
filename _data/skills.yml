@@ -1,3 +1,5 @@
+# skills.yml
+
 - skill: Manual Testing
   datalevel: 98%
 
@@ -12,3 +14,8 @@
 
 - skill: Quality Center
   datalevel: 90%
+
+- skill: REST Testing
+  datalevel: 90%
+
+  
