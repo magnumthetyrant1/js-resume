@@ -1,8 +1,14 @@
 # experiences.yml
 
 - position: ISTQB Agile Test Analyst
+  company: Pick n Pay
+  duration: June, 2018 - Current
+  responsibilities: Responsible for Manual Testing and Generating Test Cases in HP Quality Center Defect Creation and Management in Jira. Currently conntracting at PnP
+  projects: PnP Mobile Application, PnP Mobile Site, PnP Online Shop
+
+- position: ISTQB Agile Test Analyst
   company: DVT
-  duration: June, 2016 - Current
+  duration: June, 2016 - May, 2018
   responsibilities: Responsible for Manual Testing and Generating Test Cases in HP Quality Center Defect Creation and Management in Jira. Currently conntracting at PnP
   projects: PnP Mobile Application, PnP Mobile Site, PnP Online Shop
 
@@ -16,4 +22,4 @@
   company: Liquorice, Digitas LBI
   duration: January, 2014 - October, 2014
   responsibilities: Responsible for Manual Testing and Generating Test Cases Defect Creation and Management in Jira.
-  projects: Robertsons, Distell, 
+  projects: Robertsons, Distell,
