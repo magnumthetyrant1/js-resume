@@ -1,8 +1,14 @@
 # experiences.yml
+- position: Scrum Master
+  company: Pick n Pay
+  duration: January, 2019 - Current
+  responsibilities: Responsible for Manual Testing and Generating Test Cases in HP Quality Center Defect Creation and Management in Jira. Currently conntracting at PnP
+  projects: PnP Mobile Application, PnP Mobile Site, PnP Online Shop
+
 
 - position: ISTQB Agile Test Analyst
   company: Pick n Pay
-  duration: June, 2018 - Current
+  duration: June, 2018 - December, 2018
   responsibilities: Responsible for Manual Testing and Generating Test Cases in HP Quality Center Defect Creation and Management in Jira. Currently conntracting at PnP
   projects: PnP Mobile Application, PnP Mobile Site, PnP Online Shop
 
