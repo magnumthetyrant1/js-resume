@@ -1,0 +1,10 @@
+<div class="certifications-container container-block">
+  <h2 class="container-block-title">Interests</h2>
+  <ul class="list-unstyled certifications-list">
+    {% for certification in site.data.certifications %}
+    <li>{{certification.certification}}</li>
+    {% endfor %}
+  </ul>
+
+</div>
+<!--//certifications-->
