@@ -1,5 +1,8 @@
 # skills.yml
 
+- skill: Agile & Scrum
+  datalevel: 95%
+
 - skill: Manual Testing
   datalevel: 98%
 
@@ -17,5 +20,3 @@
 
 - skill: REST Testing
   datalevel: 90%
-
-  
