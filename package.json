@@ -7,7 +7,12 @@
     "server": "bundle exec jekyll serve",
     "deploy": "gulp deploy"
   },
-  "keywords": ["sass", "bulma", "jekyll", "surge"],
+  "keywords": [
+    "sass",
+    "bulma",
+    "jekyll",
+    "surge"
+  ],
   "babel": {},
   "repository": {
     "type": "git",
