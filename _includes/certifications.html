@@ -3,7 +3,11 @@
   <ul class="list-unstyled certifications-list">
     {% for certification in site.data.certifications %}
 
-    <li><b>{{certification.organisation}} </b>| {{certification.certification}} | {{certification.year}}</li>
+    <li>
+      <b>{{certification.organisation}} </b> |
+      <a href="https://www.scrumalliance.org/community/profile/mzils2" target="_parent">{{certification.certification}}</a> |
+      {{certification.year}}
+    </li>
     {% endfor %}
   </ul>
 
